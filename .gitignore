@@ -1,2 +1,10 @@
-Features.npy
-Labels.npy
+Data/Features.npy
+Data/Labels.npy
+.ipynb_checkpoints
+.virtual_documents
+Data/Base_Data_Features.npy
+Data/Base_Data_Labels.npy
+Data/G_Base_Data_Features.npy
+Data/G_Base_Data_Labels.npy
+Data/G_Features.npy
+Data/G_Labels.npy
