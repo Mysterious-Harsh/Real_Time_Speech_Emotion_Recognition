@@ -27,3 +27,6 @@
 ![Train-Test Graph](./Screenshots/SER_epoch_categorical_accuracy.svg)
 #### Loss Graph
 ![Train-Test Graph](./Screenshots/SER_epoch_loss.svg)
+### Confusion Matrix
+![Train-Test Graph](./Screenshots/Confusion_Matrix_Validation_Data.png)
+
