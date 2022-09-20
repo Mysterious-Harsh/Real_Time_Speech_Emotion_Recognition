@@ -20,7 +20,7 @@
 ## Screenshots
 
 ### Neural Network Architecher
-![Model](./Screenshots/model.png)<img width="372" alt="image" src="https://user-images.githubusercontent.com/78134572/191199554-2a2f8dab-66c4-4e88-b493-944c24a0d654.png">
+<img width="372" alt="image" src="https://user-images.githubusercontent.com/78134572/191199554-2a2f8dab-66c4-4e88-b493-944c24a0d654.png">
 
 ### Performance Graph
 #### Accuracy Graph
@@ -29,4 +29,25 @@
 ![Train-Test Graph](./Screenshots/SER_epoch_loss.svg)
 ### Confusion Matrix
 ![Train-Test Graph](./Screenshots/Confusion_Matrix_Validation_Data.png)
+### Main Interface
+![Detecting Interface](./Screenshots/Screenshot_1.png)
+### Session Summary
+![Session Summary](./Screenshots/Screenshot_2.png)
+
+<h1 align="center"><b>Real Time Speech Emotion Recognition With Gender Classification</b></h1>
+
+### I have also trained the model with Male-Female Classification with 7 different emotions with total 14 labels. Everything remain same as discribed above except the output labels.
+## Screenshots
+
+### Neural Network Architecher
+![Model](./Screenshots/model.png)
+### Performance Graph
+#### Accuracy Graph
+![Train-Test Graph](./Screenshots/G_SER_epoch_categorical_accuracy.svg)
+#### Loss Graph
+![Train-Test Graph](./Screenshots/G_SER_epoch_loss.svg)
+### Confusion Matrix
+![Train-Test Graph](./Screenshots/G_Confusion_Matrix_Validation_Data.png)
+### Main Interface
+![Detecting Interface](./Screenshots/G_Screenshot_1.png)
 
