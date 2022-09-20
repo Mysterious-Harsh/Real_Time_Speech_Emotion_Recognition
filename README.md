@@ -16,4 +16,14 @@
 ## How to run
 - To train the model use Feature_Extraction_and_Model_Traning.ipynb Jupyter Notebook File
 - To start real time detection use Real_Time_Emotion_Detector.ipynb Jupyter Notebook File
-- 
+
+## Screenshots
+
+### Neural Network Architecher
+![Model](./Screenshots/model.png)<img width="372" alt="image" src="https://user-images.githubusercontent.com/78134572/191199554-2a2f8dab-66c4-4e88-b493-944c24a0d654.png">
+
+### Performance Graph
+#### Accuracy Graph
+![Train-Test Graph](./Screenshots/SER_epoch_categorical_accuracy.svg)
+#### Loss Graph
+![Train-Test Graph](./Screenshots/SER_epoch_loss.svg)
